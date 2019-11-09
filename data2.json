@@ -1,4 +1,4 @@
-{"friends":[
+{"students":[
 	{"name": "SA", "dept": "comp"},
-    	{"name": "Arjun", "dept": "computer"}
+    {"name": "Arjun", "dept": "computer"}
 ]}
