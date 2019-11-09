@@ -1,5 +1,5 @@
-{"friends":[
+{"students":[
 	{"name": "Aps", "dept": "cse"},
 	{"name": "Balki", "dept": "random"},
-    	{"name": "Div", "dept": "bio"}
+    {"name": "Div", "dept": "bio"}
 ]}
