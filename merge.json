@@ -1,0 +1,24 @@
+{
+    "friends": [
+        {
+            "name": "Aps",
+            "dept": "cse"
+        },
+        {
+            "name": "Balki",
+            "dept": "random"
+        },
+        {
+            "name": "Div",
+            "dept": "bio"
+        },
+        {
+            "name": "SA",
+            "dept": "comp"
+        },
+        {
+            "name": "Arjun",
+            "dept": "computer"
+        }
+    ]
+}
