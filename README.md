@@ -10,4 +10,5 @@ The data1.json and data2.json can be modified or appended for better results.
 This code is generic in a way that, any file name (in json format) and any number of file in the same directory as the python code will get merged without specifying it.
 The two file data1.json and data2.json are just samples, any name can be given.
 
-Note: the merge.json and merge1.json are just output files and contains the output of the tested code.
+ # Note:
+ The merge.json and merge1.json are just output files and contains the output of the tested code.
